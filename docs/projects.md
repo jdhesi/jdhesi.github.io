@@ -4,6 +4,9 @@ title: Projects
 permalink: /projects/
 ---
 
-## Some Projects
-### [Approximation Theory](https://jdhesi.github.io/) 
-	How well can we approximate functions of varying smoothness? 
+## [Approximation Theory](https://jdhesi.github.io/) 
+## [Graph Theory](https://jdhesi.github.io/) 
+## [Data Science](https://jdhesi.github.io/) 
+## [Optimisation](https://jdhesi.github.io/) 
+## [Mathematical Biology](https://jdhesi.github.io/) 
+## [Linear Algebera](https://jdhesi.github.io/) 
