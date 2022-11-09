@@ -4,8 +4,8 @@ title: Projects
 permalink: /projects/
 ---
 
-## [Approximation Theory](https://jdhesi.github.io/) 
-[![Errors](/assets/images/multiplot3_resize.png)](https://jdhesi.github.io/) <br>
+## [Approximation Theory](https://jdhesi.github.io/projects/aofproject) 
+[![Errors](/assets/images/multiplot3_resize.png)](https://jdhesi.github.io/projects/aofproject) <br>
 How well can we approximate functions of varying smoothness using only polynomials?
 ## [Graph Theory](https://jdhesi.github.io/) 
 [![Networks](/assets/images/networks_resize.jpg)](https://jdhesi.github.io/) <br>
