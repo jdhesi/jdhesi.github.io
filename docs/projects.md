@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 
 ## [Approximation Theory](https://jdhesi.github.io/) 
-![Errors](/assets/images/aof1.jpg)
+![Errors](/assets/images/multiplot3.png =x100)
 
 ## [Graph Theory](https://jdhesi.github.io/) 
 ## [Data Science](https://jdhesi.github.io/) 
