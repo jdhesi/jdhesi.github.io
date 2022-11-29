@@ -1,6 +1,7 @@
 ---
 layout: page
-title: null
+name: testname
+title: false
 permalink: /projects/aofproject
 katex: True
 ---
