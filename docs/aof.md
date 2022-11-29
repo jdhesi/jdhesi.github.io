@@ -4,7 +4,7 @@ title:
 permalink: /projects/aofproject
 ---
 
-# Convergence Rates of Chebyshev Approximation
+## Convergence Rates of Chebyshev Approximation
 Chebyshev approximation is a method of approximation functions using Chebyshev polynomials. These are polynomials of the form 
 $$
 T_n(\cos{\theta}) = \cos{n  \theta}.
