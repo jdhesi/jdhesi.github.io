@@ -2,6 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
+nameof: Projects
 ---
 
 ## [Approximation Theory](https://jdhesi.github.io/projects/aofproject) 
