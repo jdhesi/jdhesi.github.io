@@ -1,6 +1,7 @@
 ---
 layout: page
-title: false
+title: Statistical Modelling
+nameof: false
 permalink: /projects/smproject
 katex: True
 ---

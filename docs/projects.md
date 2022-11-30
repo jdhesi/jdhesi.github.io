@@ -14,5 +14,5 @@ nameof: Projects
 ## [Optimisation](https://jdhesi.github.io/projects/optimproject) 
 
 
-## [Mathematical Biology](https://jdhesi.github.io/) 
+## [Mathematical Biology](https://jdhesi.github.io/projects/mbproject) 
 ## [Linear Algebra](https://jdhesi.github.io/) 

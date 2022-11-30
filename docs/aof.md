@@ -1,6 +1,7 @@
 ---
 layout: page
-title: false
+title: Approximation Theory
+nameof: false
 permalink: /projects/aofproject
 katex: True
 ---
