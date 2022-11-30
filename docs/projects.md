@@ -7,7 +7,7 @@ permalink: /projects/
 ## [Approximation Theory](https://jdhesi.github.io/projects/aofproject) 
 
 
-## [Statistical Modelling](https://jdhesi.github.io/smproject) 
+## [Statistical Modelling](https://jdhesi.github.io/projects/smproject) 
 
 
 ## [Optimisation](https://jdhesi.github.io/) 
