@@ -1,7 +1,7 @@
 ---
 layout: page
-title: test
-name: false
+title: Optimisation
+nameof: false
 permalink: /projects/optimproject
 katex: True
 ---
