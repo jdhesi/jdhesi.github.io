@@ -1,6 +1,6 @@
 ---
 layout: page
-title: nil
+title: false
 permalink: /projects/aofproject
 katex: True
 ---
