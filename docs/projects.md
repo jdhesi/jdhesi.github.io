@@ -10,7 +10,7 @@ permalink: /projects/
 ## [Statistical Modelling](https://jdhesi.github.io/projects/smproject) 
 
 
-## [Optimisation](https://jdhesi.github.io/) 
+## [Optimisation](https://jdhesi.github.io/projects/optimproject) 
 
 
 ## [Mathematical Biology](https://jdhesi.github.io/) 
