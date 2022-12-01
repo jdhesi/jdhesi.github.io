@@ -10,8 +10,6 @@ katex: True
 # Stochastic Models of Higher Order Interactions in Epidemics
 Epidimiological models have been of unprecedented importance in the past few years. SIR models have been used to predict the dynamics of the numbers of susceptible (S), infected (I) and recovered/removed (R) parties in a population of size $$N$$, given a rate of infection $$\beta$$, and rate of removal $$\mu$$. One can consider the population as an ensemble of nodes, in which infections have a probability of occuring when an infectious node is connected by an edge to a susceptible node. 
 
-### FIGURE HERE
-
 With some basic assumptions such as a well mixed homogeneous population, it is not difficult to arrive at the deterministic system for the time evolution of each of our classes; 
 
 $$
@@ -35,3 +33,5 @@ $$
 $$
 
 In this report we introduce simplicial complexes, and how we can build stochastic models on them. We then consider the SIR dynamics of our simplicial models to showcase the relevence of higher order interactions in contagion spreading. 
+
+## [View Project](https://jdhesi.github.io/pdfs/Stochastic_Simplicial_Complexes.pdf)

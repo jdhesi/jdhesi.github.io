@@ -41,3 +41,5 @@ where $$l(t)$$ describes the length of the axon at time $$t$$, and $$\eta$$ and 
 
 # Coupling Tubulin Transport and Mechanical Forces
 In this report, we couple the above models into a single model which considers the elongation of the axon due to the dynamics of tubulin inside the axon as well as the mechanical forces arising due to the environment. We provide analytic solutions for simplified cases and numerical solutions for the full PDE arising from this coupling. We show that our model agrees with each of the previous two theories when regarded in their specific regimes. 
+
+## [View Project](https://jdhesi.github.io/pdfs/Modelling_Neuronal_Growth.pdf)

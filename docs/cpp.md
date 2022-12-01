@@ -39,3 +39,5 @@ u(a) = u(b) = 0
 $$
 
 for $$x \in [a,b]$$. 
+
+## [View Project](https://jdhesi.github.io/pdfs/NLA_in_CPP.pdf)
