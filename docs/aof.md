@@ -40,3 +40,6 @@ f(x) = \sum_{n=1}^{\infty} \frac{\sin{a^nx}}{n!}
 $$
 
 for $$a>1$$. We consider a range of general $$C^{\infty}$$ nowhere analytic functions in this report and conclude that they exhibit root exponential convergence when approximated by Chebyshev polynomials. That is $$\mathcal{O}(c_1^{-n^{c_2}})$$ for $$c_1>1$$ and $$0<c_2<1$$. 
+
+
+## [View Project](https://jdhesi.github.io/pdfs/Approximation_Theory.pdf)
