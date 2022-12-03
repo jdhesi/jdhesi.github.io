@@ -5,9 +5,9 @@ title: About
 permalink: /about/
 nameof: About
 ---
-# Education#
+# Education
 
-| University of Oxford (October 2021 - September 2022) <br> MSc Mathematical Modelling and Scientific Computing <br> Grade: Distinction <br> <br> <sub><sup> Taught Courses: Numerical Linear Algebra, Numerical Solutions of PDEs, Continuous Optimisation, Applied PDEs, Nonlinear Systems, Practical Numerical Analysis </sup></sub> <br> <br> <sub><sup> Research Courses: Topological Data Analysis for Cancer Images (Dissertation)*, Approximation of Functions, Networks, Scientific Computing in C++, Image Colour Recovery (Group), Modelling Neuronal Growth (Group) </sup></sub> <br> <br> <sub><sup><sub><sup> I am currently working on publications relating to the work I completed in my MSc dissertation, using various ML techniques to analyse topological features derived from tumour-immune spatial data. </sup></sub></sup></sub> |
+| University of Oxford (October 2021 - September 2022) <br> MSc Mathematical Modelling and Scientific Computing <br> Grade: Distinction <br> <br> <sub><sup> Taught Courses: Numerical Linear Algebra, Numerical Solutions of PDEs, Continuous Optimisation, Applied PDEs, Nonlinear Systems, Practical Numerical Analysis </sup></sub> <br> <br> <sub><sup> Research Courses: Topological Data Analysis for Cancer Images (Dissertation)*, Approximation of Functions, Networks, Scientific Computing in C++, Image Colour Recovery(Group), Modelling Neuronal Growth (Group) </sup></sub> <br> <br> <sub><sup><sub><sup> I am currently working on publications relating to the work I completed in my MSc dissertation, using various ML techniques to analyse topological features derived from tumour-immune spatial data. </sup></sub></sup></sub> | 
 | - |
 
 
