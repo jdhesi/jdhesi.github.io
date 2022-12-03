@@ -7,10 +7,8 @@ nameof: About
 ---
 # Education
 
----
-
 |**University of Oxford** (Oct 21 - Sep 22) - MSc Mathematical Modelling and Scientific Computing. Grade: Distinction|
-|--------------------------------------------------------------------------------------------------------------------|
+|-------------------------------------------------------------------------------------------------------------------------------|
 
 Taught Courses: Numerical Linear Algebra, Numerical Solutions of PDEs, Continuous Optimisation, Applied PDEs, Nonlinear Systems, Practical Numerical Analysis
 
