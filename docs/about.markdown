@@ -7,8 +7,15 @@ nameof: About
 ---
 # Education
 
-|**University of Oxford** (Oct 21 - Sep 22) - MSc Mathematical Modelling and Scientific Computing. Grade: Distinction|
-|-------------------------------------------------------------------------------------------------------------------------------|
+---
+
+| **University of Oxford** (Oct 21 - Sep 22) - MSc Mathematical Modelling and Scientific Computing. Grade: Distinction |
+| -------------------------------------------------------------------------------------------------------------------- |
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
 
 Taught Courses: Numerical Linear Algebra, Numerical Solutions of PDEs, Continuous Optimisation, Applied PDEs, Nonlinear Systems, Practical Numerical Analysis
 
@@ -19,8 +26,8 @@ Research Courses: Topological Data Analysis for Cancer Images (Dissertation)*, A
 
 ---
 
-|**University of Warwick** (Oct 18 - Jul 21) - BSc Maths and Physics. Grade: First class honours.|
-|---|
+| **University of Warwick** (Oct 18 - Jul 21) - BSc Maths and Physics. Grade: First class honours. |
+| ------------------------------------------------------------------------------------------------ |
 
 Selected Courses: Scientific Computing, PDEs, ODEs, Linear Algebra, Computational Physics (C and Python), Statistical Mechanics
 
