@@ -6,7 +6,7 @@ layout: home
 title: Home
 katex: True
 ---
-I am a recent Mathematics MSc graduate from the University of Oxford. For a full list of my education and courses taken please see my [about page](about). My current research interests, put broadly, are in the applications of data science in healthcare and drug discovery. My website highlights some of my personal and academic projects. My contact email is jaydhesi25@gmail.com.
+I am a recent Mathematics MSc graduate from the University of Oxford. For a full list of my education and courses taken please see my [about page](about). My current research interests, put broadly, are in the applications of data science in healthcare and drug discovery. My website highlights some of my personal and academic projects.
 
 ## Projects
 Here are some of my projects. For some more in depth summaries, please check the projects page.
