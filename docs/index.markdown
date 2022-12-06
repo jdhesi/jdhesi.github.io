@@ -11,6 +11,8 @@ I am a recent Mathematics MSc graduate from the University of Oxford. For a full
 ## Projects
 Here are some of my projects. For some more in depth summaries, please check the projects page.
 
+- [**Using Topological Data Analysis to Interpret Cancer Images.**](projects/tdaproject) Using existing and novel methods from TDA to analyse an agent based model describing the immune response to tumours. We use ML techniques to perform a binary classification task and a regression task of the topological feature vectors and improve upon benchmark accuracies set by more conventional statistics. 
+
 - [**Approximating $$C^{\infty}$$ Nowhere Analytic Functions.**](projects/aofproject) Investigating convergence rates of the polynomial approximation to different classes of continuous functions. We review theorems for continuously differentiable functions and analytic functions. We then investigate $$C^{\infty}$$ nowehere analytic functions. We derive some new theoretical bounds on a subclass of these niche functions and verify our bounds computationally using Matlab.
 
 - [**Modelling Higher-Order Interactions with Simplicial Complexes.**](projects/smproject) We investigate various analogues of the Erdős–Rényi random network for simplicial complexes. We derive the degree distributions for one particular generalisation of the ER graph and verify it numerically. We then investigate the importance of higher order interactions by building SIR models on our random simplicial complexes and compare results to the case for graphs. Computations done using the NetworkX Python library.

@@ -5,6 +5,8 @@ permalink: /projects/
 nameof: Projects
 ---
 
+## [Topological Data Analysis](https://jdhesi.github.io/projects/tdaproject) 
+
 ## [Approximation Theory](https://jdhesi.github.io/projects/aofproject) 
 
 
