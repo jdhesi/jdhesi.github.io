@@ -7,8 +7,11 @@ nameof: About
 ---
 # Education
 
+---
 
-**University of Oxford** (Oct 21 - Sep 22) - MSc Mathematical Modelling and Scientific Computing. Grade: Distinction
+**University of Oxford** (Oct 21 - Sep 22) - MSc Mathematical Modelling and Scientific Computing. 
+
+**Grade**: Distinction
 
 **Taught Courses:** Numerical Linear Algebra, Numerical Solutions of PDEs, Continuous Optimisation, Applied PDEs, Nonlinear Systems, Practical Numerical Analysis
 
@@ -18,7 +21,9 @@ nameof: About
 
 ---
 
-**University of Warwick** (Oct 18 - Jul 21) - BSc Maths and Physics. Grade: First class honours.
+**University of Warwick** (Oct 18 - Jul 21) - BSc Maths and Physics. 
+
+**Grade:** First class honours.
 
 **Selected Courses:** Scientific Computing, PDEs, ODEs, Linear Algebra, Computational Physics (C and Python), Statistical Mechanics
 
