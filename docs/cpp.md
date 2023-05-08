@@ -6,7 +6,7 @@ permalink: /projects/cppproject
 katex: True
 ---
 
-# Implementing Linear Algebra Algorithms in C++
+# Implementing Linear Algebra Algorithms in C++ ([View PDF](https://jdhesi.github.io/pdfs/NLA_in_CPP.pdf))
 
 Matlab is a very convinient language for scientists; what it lacks in speed it makes up with exceptionally easy matrix manipulation and a simple user experience. In this project we task ourselves with recreating some of the robust functionality that makes Matlab easy to use in a lower level programming language, C++.
 
@@ -40,4 +40,4 @@ $$
 
 for $$x \in [a,b]$$. 
 
-## [View Project](https://jdhesi.github.io/pdfs/NLA_in_CPP.pdf)
+
