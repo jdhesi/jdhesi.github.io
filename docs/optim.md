@@ -6,7 +6,7 @@ permalink: /projects/optimproject
 katex: True
 ---
 
-# Colour Recovery using Optimisation and Functional Analysis
+# Colour Recovery using Optimisation and Functional Analysis ([View PDF](https://jdhesi.github.io/pdfs/Image_Colour_Recovery.pdf))
 
 Given a greyscale image of size $$L \times W = N$$, with colour information of a small number $$n << N$$ of pixels, can we accurately recover the full colour information of all grey pixels?
 
@@ -39,4 +39,3 @@ $$
 
 for the identity matrix $$I$$, and a real parameter $$\delta$$, whose value will impact the 'accuracy' of the solution. In our report we show the detailed derivation of this linear system, and the impact of chaning parameters and Kernel functions on the recoloured image. 
 
-## [View Project](https://jdhesi.github.io/pdfs/Image_Colour_Recovery.pdf)
