@@ -6,7 +6,7 @@ permalink: /projects/tdaproject
 katex: True
 ---
 
-# Topological Data Analysis
+# Topological Data Analysis ([View PDF](https://jdhesi.github.io/pdfs/TDA_dissertation_dhesi.pdf))
 
 Topological data analysis is a field at the intersection of algebraic topology and data science. It is used to study the shape of data and can identify patterns that may not be easily seen using traditional ML methods. The features derived using algebraic topology are interporable and therefore this method may be an alternative to some black box methods when spatial distibutions are of key importance.
 
@@ -20,4 +20,3 @@ In our analysis of the topological features that we derive for our point cloud d
 We find that the topological features accurately predict the dominant macrophage phenotype in these simulations, and in particular it improves the benchmark classification accuracy set by more standard statistics. Moreover, the interperobility of the topological features further justify the use of TDA for this data set. 
 
 
-## [View Project](https://jdhesi.github.io/pdfs/TDA_dissertation_dhesi.pdf)
