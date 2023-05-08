@@ -6,7 +6,7 @@ permalink: /projects/mbproject
 katex: True
 ---
 
-# Modelling Axonal Growth
+# Modelling Axonal Growth ([View PDF](https://jdhesi.github.io/pdfs/Modelling_Neuronal_Growth.pdf))
 
 Though key to understanding how neural networks form and evolve, neuronal growth is a poorly understood process. In the early stages of morphogenesis a neuronal cell consists of the main cell body, known as the soma, and a multitude of protruding dendrites. Eventually, a single dendrite referred to as the axon outgrows the rest.
 
@@ -42,4 +42,3 @@ where $$l(t)$$ describes the length of the axon at time $$t$$, and $$\eta$$ and 
 # Coupling Tubulin Transport and Mechanical Forces
 In this report, we couple the above models into a single model which considers the elongation of the axon due to the dynamics of tubulin inside the axon as well as the mechanical forces arising due to the environment. We provide analytic solutions for simplified cases and numerical solutions for the full PDE arising from this coupling. We show that our model agrees with each of the previous two theories when regarded in their specific regimes. 
 
-## [View Project](https://jdhesi.github.io/pdfs/Modelling_Neuronal_Growth.pdf)
