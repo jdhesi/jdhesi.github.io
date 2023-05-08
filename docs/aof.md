@@ -6,7 +6,7 @@ permalink: /projects/aofproject
 katex: True
 ---
 
-## Convergence Rates of Chebyshev Approximation
+## Convergence Rates of Chebyshev Approximation ([View PDF](https://jdhesi.github.io/pdfs/Approximation_Theory.pdf))
 Chebyshev approximation is a method of approximation functions using Chebyshev polynomials. These are polynomials of the form 
 
 $$
@@ -42,4 +42,3 @@ $$
 for $$a>1$$. We consider a range of general $$C^{\infty}$$ nowhere analytic functions in this report and conclude that they exhibit root exponential convergence when approximated by Chebyshev polynomials. That is $$\mathcal{O}(c_1^{-n^{c_2}})$$ for $$c_1>1$$ and $$0<c_2<1$$. 
 
 
-## [View Project](https://jdhesi.github.io/pdfs/Approximation_Theory.pdf)
