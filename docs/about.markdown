@@ -17,9 +17,7 @@ nameof: About
 
 **Taught Courses:** Numerical Linear Algebra, Numerical Solutions of PDEs, Continuous Optimisation, Applied PDEs, Nonlinear Systems, Practical Numerical Analysis
 
-**Research Courses:** Topological Data Analysis for Cancer Images (Dissertation)*, Approximation of Functions, Networks, Scientific Computing in C++, Image Colour Recovery (Group), Modelling Neuronal Growth (Group)
-
-*<sub>I am currently working on publications relating to the work I completed in my MSc dissertation, using various ML techniques to analyse topological features derived from tumour-immune spatial data.</sub>
+**Research Courses:** Topological Data Analysis for Cancer Images (Dissertation), Approximation of Functions, Networks, Scientific Computing in C++, Image Colour Recovery (Group), Modelling Neuronal Growth (Group)
 
 
 ---
