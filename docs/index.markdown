@@ -8,6 +8,12 @@ katex: True
 ---
 I am a recent Mathematics MSc graduate from the University of Oxford. For a full list of my education and courses taken please see my [about page](about). My website highlights some of my personal and academic projects.
 
+## Publications
+Here are preprints of papers I have worked on related to my MSc dissertation.
+- [**Relational persistent homology for multispecies data with application to the tumor microenvironment**](https://arxiv.org/abs/2308.06205)
+- 
+- [**Topological classification of tumour-immune interactions and dynamics**](https://arxiv.org/abs/2308.05294)
+
 ## Projects
 Here are some of my projects. For some more in depth summaries, please check the projects page.
 
