@@ -7,7 +7,9 @@ title: Home
 katex: True
 ---
 
-I'm currently a first year PhD student in the Department of Pure Mathematics and Mathematical Statistics (DPMMS) at the University of Cambridge.  My research areas include topological data analysis, inverse problems and machine learning. Before this I studied Mathematics at the University of Oxford. For a full list of my education and courses taken please see my [about page](about). My website highlights some of my personal and academic projects.
+I'm currently a first year PhD student in the Department of Pure Mathematics and Mathematical Statistics (DPMMS) at the University of Cambridge. I am a member of the Statistical Laboratory and Cambridge Image Analysis. My research areas include topological data analysis, inverse problems and machine learning.
+
+I have also worked as a senior engineer at Caterpillar, where my work focused on scientific software development for structural and thermofluid numerical simulations. Prior to this I completed my MSc in Mathematics at the University of Oxford.
 
 ## Publications
 - [**Relational persistent homology for multispecies data with application to the tumor microenvironment**](https://link.springer.com/article/10.1007/s11538-024-01353-6)
