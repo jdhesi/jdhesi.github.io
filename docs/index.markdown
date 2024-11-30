@@ -10,7 +10,7 @@ katex: True
 I'm currently a first year PhD student in the Department of Pure Mathematics and Mathematical Statistics (DPMMS) at the University of Cambridge.  My research areas include topological data analysis, inverse problems and machine learning. Before this I studied Mathematics at the University of Oxford. For a full list of my education and courses taken please see my [about page](about). My website highlights some of my personal and academic projects.
 
 ## Publications
-- [**Relational persistent homology for multispecies data with application to the tumor microenvironment**]([https://arxiv.org/abs/2308.06205](https://link.springer.com/article/10.1007/s11538-024-01353-6))
+- [**Relational persistent homology for multispecies data with application to the tumor microenvironment**](https://arxiv.org/abs/2308.06205](https://link.springer.com/article/10.1007/s11538-024-01353-6)
 
 - [**Topological classification of tumour-immune interactions and dynamics (preprint)**](https://arxiv.org/abs/2308.05294)
 
