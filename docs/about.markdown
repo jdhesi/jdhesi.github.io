@@ -6,10 +6,15 @@ permalink: /about/
 nameof: About
 ---
 # Education
+---
+
+**University of Cambridge (St. John's College)** (Oct 2024 - Current) - PhD Mathematics
+
+**Research Topics:** Persistent homology, optimisation, inverse problems, medical imaging, machine learning 
 
 ---
 
-**University of Oxford** (Oct 21 - Sep 22) - MSc Mathematical Modelling and Scientific Computing
+**University of Oxford (Wolfson College)** (Oct 21 - Sep 22) - MSc Mathematical Modelling and Scientific Computing
 
 ---
 
