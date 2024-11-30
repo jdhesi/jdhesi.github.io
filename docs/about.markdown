@@ -10,10 +10,10 @@ nameof: About
 
 **University of Cambridge (St. John's College)** (Oct 2024 - Current) - PhD Mathematics
 
-**Research Topics:** Persistent homology, optimisation, inverse problems, medical imaging, machine learning 
-
----
-
+**Research Topics:** Persistent homology, optimisation, inverse problems, medical imaging, machine learning \
+\
+\
+\
 **University of Oxford (Wolfson College)** (Oct 21 - Sep 22) - MSc Mathematical Modelling and Scientific Computing
 
 ---
@@ -22,11 +22,10 @@ nameof: About
 
 **Taught Courses:** Numerical Linear Algebra, Numerical Solutions of PDEs, Continuous Optimisation, Applied PDEs, Nonlinear Systems, Practical Numerical Analysis
 
-**Research Courses:** Topological Data Analysis for Cancer Images (Dissertation), Approximation of Functions, Networks, Scientific Computing in C++, Image Colour Recovery (Group), Modelling Neuronal Growth (Group)
-
-
----
-
+**Research Courses:** Topological Data Analysis for Cancer Images (Dissertation), Approximation of Functions, Networks, Scientific Computing in C++, Image Colour Recovery (Group), Modelling Neuronal Growth (Group)\
+\
+\
+\
 **University of Warwick** (Oct 18 - Jul 21) - BSc Maths and Physics
 
 ---
