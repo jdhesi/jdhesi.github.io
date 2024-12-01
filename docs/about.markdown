@@ -1,9 +1,9 @@
 ---
 layout: page
-nameof: About
-title: About
-permalink: /about/
-nameof: About
+nameof: Education
+title: Education
+permalink: /eucation/
+nameof: Education
 ---
 # Education 
 \
