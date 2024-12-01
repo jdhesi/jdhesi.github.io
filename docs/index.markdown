@@ -6,8 +6,10 @@ layout: home
 title: Home
 katex: True
 ---
-
+<!---
 <img src="assets/images/1677599116458.jpeg" width="50%" alt="description" style="display: block; margin: auto;">
+-->
+<img src="assets/images/1677599116458.jpeg" style="border-radius: 50%; width: 300px; height: 300px; object-fit: cover; display: block; margin: auto;">
 
 
 
