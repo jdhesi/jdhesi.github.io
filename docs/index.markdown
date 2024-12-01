@@ -7,6 +7,9 @@ title: Home
 katex: True
 ---
 
+![description](assets/images/1677599116458.jpeg#center)
+
+
 I'm currently a first year PhD student in Mathematics at the University of Cambridge, under the supervision of [Professor Sir John Aston](https://www.statslab.cam.ac.uk/~jada2/) and [Professor Carola-Bibiane Schönlieb](https://www.damtp.cam.ac.uk/person/cbs31). I am a member of the [Statistical Laboratory](https://www.statslab.cam.ac.uk/) and [Cambridge Image Analysis](https://www.damtp.cam.ac.uk/research/cia/cambridge-image-analysis) groups. My research areas include topological data analysis, inverse problems and machine learning.
 
 I have also worked as a senior engineer at Caterpillar, where my work focused on scientific software development for structural and thermofluid numerical simulations. Prior to this I completed my MSc in Mathematics at the University of Oxford.
