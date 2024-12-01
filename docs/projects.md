@@ -1,3 +1,5 @@
+<!---
+
 ---
 layout: page
 title: Projects
@@ -19,3 +21,4 @@ nameof: Projects
 ## [Mathematical Biology](https://jdhesi.github.io/projects/mbproject) 
 
 ## [Linear Algebra](https://jdhesi.github.io/projects/cppproject) 
+-->
