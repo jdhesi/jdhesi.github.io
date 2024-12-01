@@ -28,6 +28,7 @@ I have also worked as a senior engineer at Caterpillar, where my work focused on
 <!---
 Using existing and novel methods from TDA to analyse an agent based model describing the immune response to tumours. We use ML techniques to perform a binary classification task and a regression task of the topological feature vectors and improve upon benchmark accuracies set by more conventional statistics. 
 -->
+
 - [**Approximating $$C^{\infty}$$ Nowhere Analytic Functions.**](projects/aofproject)
 <!---Investigating convergence rates of the polynomial approximation to different classes of continuous functions. We review theorems for continuously differentiable functions and analytic functions. We then investigate $$C^{\infty}$$ nowehere analytic functions. We derive some new theoretical bounds on a subclass of these niche functions and verify our bounds computationally using Matlab.
 -->
