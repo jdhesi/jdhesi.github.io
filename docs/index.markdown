@@ -18,7 +18,7 @@ I'm currently a first year PhD student in Mathematics at the University of Cambr
 I have also worked as a senior engineer at Caterpillar, where my work focused on scientific software development for structural and thermofluid numerical simulations. Prior to this I completed my MSc in Mathematics at the University of Oxford.
 
 ## Publications
-- [**Relational persistent homology for multispecies data with application to the tumor microenvironment (Bulletin of Math Bio 2024)**](https://link.springer.com/article/10.1007/s11538-024-01353-6)
+- [**Relational persistent homology for multispecies data with application to the tumor microenvironment (Bulletin of Mathematical Biology 2024)**](https://link.springer.com/article/10.1007/s11538-024-01353-6)
 
 - [**Topological classification of tumour-immune interactions and dynamics (preprint)**](https://arxiv.org/abs/2308.05294)
 
