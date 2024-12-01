@@ -14,7 +14,7 @@ nameof: About
 \
 \
 \
-**University of Oxford (Wolfson College)** (Oct 21 - Sep 22) - MSc Mathematical Modelling and Scientific Computing
+**University of Oxford (Wolfson College)** (Oct 2021 - Sep 2022) - MSc Mathematical Modelling and Scientific Computing
 
 ---
 
@@ -26,7 +26,7 @@ nameof: About
 \
 \
 \
-**University of Warwick** (Oct 18 - Jul 21) - BSc Maths and Physics
+**University of Warwick** (Oct 2018 - Jul 2021) - BSc Maths and Physics
 
 ---
 
