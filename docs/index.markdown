@@ -42,7 +42,7 @@ Using existing and novel methods from TDA to analyse an agent based model descri
 
 <!---We use functional analysis and optimisation to recolour grey-scale images given colour information at a small number of pixels. We investigate the impact of different parameters in the colour recovery process. 
 -->
-- [**Fast Matrix Decomposition in C++.**](projects/cppproject)
+- [**Fast Matrix Decomposition in C++**](projects/cppproject)
 
 
 <!---We program a matrix class in C++. Operators have been overloaded to allow for robust, Matlab-like functionality. We implement Gaussian elimination, GMRES, QR and other numerical linear algebra algorithms. We verify our implementations by solving PDEs using the finite element method. 
