@@ -29,7 +29,7 @@ I have also worked as a senior engineer at Caterpillar, where my work focused on
 Using existing and novel methods from TDA to analyse an agent based model describing the immune response to tumours. We use ML techniques to perform a binary classification task and a regression task of the topological feature vectors and improve upon benchmark accuracies set by more conventional statistics. 
 -->
 
-- [**Computing $$C^{\infty}$$ Nowhere Analytic Functions.**](projects/aofproject)
+- [**Computing $$C^{\infty}$$ Nowhere Analytic Functions**](projects/aofproject)
 <!---Investigating convergence rates of the polynomial approximation to different classes of continuous functions. We review theorems for continuously differentiable functions and analytic functions. We then investigate $$C^{\infty}$$ nowehere analytic functions. We derive some new theoretical bounds on a subclass of these niche functions and verify our bounds computationally using Matlab.
 -->
 
@@ -37,7 +37,7 @@ Using existing and novel methods from TDA to analyse an agent based model descri
 
 <!---We investigate various analogues of the Erdős–Rényi random network for simplicial complexes. We derive the degree distributions for one particular generalisation of the ER graph and verify it numerically. We then investigate the importance of higher order interactions by building SIR models on our random simplicial complexes and compare results to the case for graphs. Computations done using the NetworkX Python library.
 -->
-- [**Functional Colour Recovery with Reproducing Kernels.**](projects/optimproject)
+- [**Functional Colour Recovery with Reproducing Kernels**](projects/optimproject)
 
 
 <!---We use functional analysis and optimisation to recolour grey-scale images given colour information at a small number of pixels. We investigate the impact of different parameters in the colour recovery process. 
