@@ -20,7 +20,7 @@ I have also worked as a senior engineer at Caterpillar, where my work focused on
 ## Publications
 - [**Relational persistent homology for multispecies data with application to the tumor microenvironment (Bulletin of Mathematical Biology 2024)**](https://link.springer.com/article/10.1007/s11538-024-01353-6)
 
-- [**Topological classification of tumour-immune interactions and dynamics (preprint)**](https://arxiv.org/abs/2308.05294)
+- [**Topological classification of tumour-immune interactions and dynamics (Journal of Mathematical Biology 2025)**](https://arxiv.org/abs/2308.05294)
 
 ## Projects
 
